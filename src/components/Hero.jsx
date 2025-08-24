@@ -13,10 +13,10 @@ const Hero = () => {
             <span className="text-gray-900">Ali Abbas</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-semibold mt-2 text-gray-700">
-            Front-End Developer
+            Full-Stack Developer
           </h2>
           <p className="text-gray-600 mt-4">
-            Passionate about building web applications with modern technologies.
+            Passionate about building modern web applications with both front-end and back-end technologies.
           </p>
           <a
             href="https://drive.google.com/file/d/17MMNjwXNYK0e0XXowA3VnfTgDjYBhRlc/view?usp=drive_link"
