@@ -19,7 +19,7 @@ const Hero = () => {
             Passionate about building modern web applications with both front-end and back-end technologies.
           </p>
           <a
-            href="https://drive.google.com/file/d/17MMNjwXNYK0e0XXowA3VnfTgDjYBhRlc/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1pNuMu1vE1rN2YJlA2YafEhK2agRrmGfS/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >
