@@ -8,7 +8,6 @@ const About = () => {
 
         {/* About Me */}
         <div className="mt-6">
-          <h3 className="text-2xl font-semibold text-gray-800">About Me</h3>
           <p className="text-gray-700 mt-2">
             I'm a <span className="font-medium">Full-Stack Developer</span> with 2 years of coding experience.
             I specialize in building scalable and user-friendly web applications using modern technologies across both

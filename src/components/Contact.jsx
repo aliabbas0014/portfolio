@@ -28,12 +28,6 @@ const Contact = () => {
           <a href="https://www.linkedin.com/in/ali-abbas-701984344" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900 text-2xl">
             <FaLinkedin />
           </a>
-          <a href="https://www.facebook.com/share/1ESeFW1dnD/" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900 text-2xl">
-            <FaFacebook />
-          </a>
-          <a href="https://www.instagram.com/aliabbas001472" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900 text-2xl">
-            <FaInstagram />
-          </a>
         </div>
 
         {/* Contact Button */}

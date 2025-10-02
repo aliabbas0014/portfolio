@@ -37,7 +37,7 @@ const Navbar = () => {
     <nav className="fixed top-0 w-full bg-white shadow-md p-4 z-50">
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         {/* Logo */}
-        <div className="text-2xl font-bold text-gray-800">MyPortfolio</div>
+        <div className="text-2xl font-bold text-gray-800 ">Portfolio</div>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-6">

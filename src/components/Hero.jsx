@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <section id="home" className="h-screen flex justify-center items-center bg-white">
-      <div className="bg-gray-100 w-full max-w-6xl p-8 rounded-3xl flex flex-col md:flex-row items-center gap-6 h-[500px] md:h-[400px] lg:h-[450px] transition-transform duration-500 hover:scale-101 shadow-xl lg:px-16 py-">
+      <div className="bg-gray-100 w-full max-w-6xl p-8 rounded-3xl flex flex-col md:flex-row items-center gap-6 h-[530px] md:h-[400px] lg:h-[450px] transition-transform duration-500 hover:scale-101 shadow-xl lg:px-16 lg:mt-10">
 
 
         {/* Left Side (Text) */}
@@ -19,18 +19,18 @@ const Hero = () => {
             Passionate about building modern web applications with both front-end and back-end technologies.
           </p>
           <a
-            href="https://drive.google.com/file/d/1pNuMu1vE1rN2YJlA2YafEhK2agRrmGfS/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1uPKDa_bc4pnZjwUPNS9PrqmQk7s5BXa-/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button className="mt-6 px-6 py-3 bg-gray-800 text-white font-bold rounded-full shadow-md hover:bg-gray-900 transition">
+            <button className="mt-6 px-6 py-3 bg-gray-800 text-white font-bold rounded-full shadow-md hover:bg-gray-900 transition ">
               Download CV
             </button>
           </a>
         </div>
 
         <div className="relative flex-1 flex justify-center">
-  <div className="w-40 h-40 md:w-40 md:h-40 lg:w-65 lg:h-65 rounded-full p-1 bg-gradient-to-tr from-black-900 via-red-800 to-gray-900 shadow-lg ">
+  <div className="w-40 h-40 md:w-40 md:h-40 lg:w-65 lg:h-65 rounded-full p-1 bg-gradient-to-tr from-black-900 via-red-800 to-gray-900 shadow-lg">
     <img
       src="/portfolio/images/my.jpg"
       alt="Ali Abbas"

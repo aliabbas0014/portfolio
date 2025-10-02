@@ -1,7 +1,13 @@
 import React from "react";
-import { FaShoppingCart, FaBriefcase, FaKeyboard, FaQuestionCircle, FaCode, FaWrench } from "react-icons/fa";
+import { FaShoppingCart, FaBriefcase, FaKeyboard, FaQuestionCircle, FaCode, FaWrench, FaTshirt } from "react-icons/fa";
 
 const projects = [
+   {
+    title: "MSGM Clothing Brand",
+    description: "A fully functional clothing e-commerce website with authentication, product catalog, cart, and checkout system.",
+    icon: <FaTshirt size={40} className="text-gray-700" />,
+    link: "https://msgmclothing.infinityfreeapp.com/?i=2",
+  },
   {
     title: "Sneakers Website",
     description: "A modern e-commerce website for sneakers.",
@@ -28,17 +34,12 @@ const projects = [
   },
   {
     title: "Coming Soon",
-    description: "Exciting new project is on the way.",
-    icon: <FaCode size={40} className="text-gray-700" />,
-    link: "#",
-  },
-  {
-    title: "Coming Soon",
     description: "Stay tuned for more amazing projects.",
     icon: <FaWrench size={40} className="text-gray-700" />,
     link: "#",
   },
 ];
+
 
 const Projects = () => {
   return (

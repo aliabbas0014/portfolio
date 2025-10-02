@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
 
           <nav>
-            <ul className="flex flex-col md:flex-row gap-4 py-5">
+            <ul className="flex flex-col md:flex-row gap-4 py-5 lg:py-8">
               <li><a href="#home" className="hover:text-gray-400">Home</a></li>
               <li><a href="#about" className="hover:text-gray-400">About</a></li>
               <li><a href="#projects" className="hover:text-gray-400">Projects</a></li>
@@ -24,18 +24,12 @@ const Footer = () => {
           </nav>
 
           {/* Social Media Links */}
-          <div className="flex gap-4 text-xl">
+          <div className="flex gap-4 text-xl lg:py-8">
             <a href="https://github.com/aliabbas0014" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
               <FaGithub />
             </a>
             <a href="https://www.linkedin.com/in/ali-abbas-701984344" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
               <FaLinkedin />
-            </a>
-            <a href="https://www.facebook.com/share/1ESeFW1dnD/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
-              <FaFacebook />
-            </a>
-            <a href="https://www.instagram.com/aliabbas001472/" target="_blank" rel="noopener noreferrer" className="hover:text-gray-400">
-              <FaInstagram />
             </a>
           </div>
         </div>
