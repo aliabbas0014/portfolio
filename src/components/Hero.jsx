@@ -24,7 +24,7 @@ const Hero = () => {
             rel="noopener noreferrer"
           >
             <button className="mt-6 px-6 py-3 bg-gray-800 text-white font-bold rounded-full shadow-md hover:bg-gray-900 transition ">
-              Download CV
+              Resume
             </button>
           </a>
         </div>
